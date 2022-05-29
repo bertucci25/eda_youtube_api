@@ -11,4 +11,13 @@ En este proyecto se realizan metodos para la extraccion, pre procesamiento y vis
 
 
 ## Algunas visualizaciones:
+![Distribucion vistas por video](/assets/viz1.png)
 
+
+![Vistas vs comentarios](assets/viz2.png)
+
+
+
+### Nube de palabras
+
+![Nube de palabras](assets/viz3.png)
